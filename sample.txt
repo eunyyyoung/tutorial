@@ -1,1 +1,1 @@
-hello git ~hi
+원숭이도 이해할수있는 Git
